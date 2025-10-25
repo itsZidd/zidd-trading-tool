@@ -1,0 +1,4394 @@
+{
+  "reportType": "Disaggregated COT",
+  "sections": [
+    {
+      "marketName": "USD Malaysian Crude Palm Oil C - CHICAGO MERCANTILE EXCHANGE",
+      "code": "037021",
+      "asOfDate": "09/23/25",
+      "contractSize": "CONTRACTS OF 25 METRIC TONS",
+      "openInterest": 20606,
+      "commitments": {
+        "nonCommercial": {
+          "long": 4149,
+          "short": 4370,
+          "spreads": 555
+        },
+        "commercial": {
+          "long": 15902,
+          "short": 15661
+        },
+        "total": {
+          "long": 20606,
+          "short": 20586
+        },
+        "nonReportable": {
+          "long": 0,
+          "short": 20
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changeInOpenInterest": 2309,
+      "changes": {
+        "nonCommercial": {
+          "long": 100,
+          "short": -820,
+          "spreads": 20
+        },
+        "commercial": {
+          "long": 2189,
+          "short": 3109
+        },
+        "total": {
+          "long": 2309,
+          "short": 2309
+        },
+        "nonReportable": {
+          "long": 0,
+          "short": 0
+        }
+      },
+      "totalChangeFromPreviousWeek": 0,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 20.1,
+          "short": 21.2,
+          "spreads": 2.7
+        },
+        "commercial": {
+          "long": 77.2,
+          "short": 76
+        },
+        "total": {
+          "long": 100,
+          "short": 99.9
+        },
+        "nonReportable": {
+          "long": 0,
+          "short": 0.1
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 5,
+          "short": 6,
+          "spreads": 2
+        },
+        "commercial": {
+          "long": 15,
+          "short": 14
+        },
+        "total": {
+          "long": 21,
+          "short": 22
+        }
+      }
+    },
+    {
+      "marketName": "EURO SHORT TERM RATE - CHICAGO MERCANTILE EXCHANGE",
+      "code": "047745",
+      "asOfDate": "09/23/25",
+      "contractSize": "2,500 X CONTRACT GRADE IMM INDEX",
+      "openInterest": 52603,
+      "commitments": {
+        "nonCommercial": {
+          "long": 36608,
+          "short": 917,
+          "spreads": 5453
+        },
+        "commercial": {
+          "long": 10518,
+          "short": 46185
+        },
+        "total": {
+          "long": 52579,
+          "short": 52555
+        },
+        "nonReportable": {
+          "long": 24,
+          "short": 48
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changeInOpenInterest": 13773,
+      "changes": {
+        "nonCommercial": {
+          "long": 25665,
+          "short": -479,
+          "spreads": -88
+        },
+        "commercial": {
+          "long": -11732,
+          "short": 14334
+        },
+        "total": {
+          "long": 13845,
+          "short": 13767
+        },
+        "nonReportable": {
+          "long": -72,
+          "short": 6
+        }
+      },
+      "totalChangeFromPreviousWeek": 78,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 69.6,
+          "short": 1.7,
+          "spreads": 10.4
+        },
+        "commercial": {
+          "long": 20,
+          "short": 87.8
+        },
+        "total": {
+          "long": 100,
+          "short": 99.9
+        },
+        "nonReportable": {
+          "long": 0,
+          "short": 0.1
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 17,
+          "short": 1,
+          "spreads": 10
+        },
+        "commercial": {
+          "long": 17,
+          "short": 15
+        },
+        "total": {
+          "long": 34,
+          "short": 26
+        }
+      }
+    },
+    {
+      "marketName": "BUTTER (CASH SETTLED) - CHICAGO MERCANTILE EXCHANGE",
+      "code": "050642",
+      "asOfDate": "09/23/25",
+      "contractSize": "CONTRACTS OF 20,000 POUNDS",
+      "openInterest": 15443,
+      "commitments": {
+        "nonCommercial": {
+          "long": 422,
+          "short": 1516,
+          "spreads": 741
+        },
+        "commercial": {
+          "long": 13643,
+          "short": 12408
+        },
+        "total": {
+          "long": 14806,
+          "short": 14665
+        },
+        "nonReportable": {
+          "long": 637,
+          "short": 778
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changeInOpenInterest": 1273,
+      "changes": {
+        "nonCommercial": {
+          "long": -4,
+          "short": 310,
+          "spreads": 57
+        },
+        "commercial": {
+          "long": 1203,
+          "short": 872
+        },
+        "total": {
+          "long": 1256,
+          "short": 1239
+        },
+        "nonReportable": {
+          "long": 17,
+          "short": 34
+        }
+      },
+      "totalChangeFromPreviousWeek": 17,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 2.7,
+          "short": 9.8,
+          "spreads": 4.8
+        },
+        "commercial": {
+          "long": 88.3,
+          "short": 80.3
+        },
+        "total": {
+          "long": 95.9,
+          "short": 95
+        },
+        "nonReportable": {
+          "long": 4.1,
+          "short": 5
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 4,
+          "short": 6,
+          "spreads": 5
+        },
+        "commercial": {
+          "long": 39,
+          "short": 30
+        },
+        "total": {
+          "long": 46,
+          "short": 38
+        }
+      }
+    },
+    {
+      "marketName": "MILK, Class III - CHICAGO MERCANTILE EXCHANGE",
+      "code": "052641",
+      "asOfDate": "09/23/25",
+      "contractSize": "CONTRACTS OF 200,000 POUNDS",
+      "openInterest": 26712,
+      "commitments": {
+        "nonCommercial": {
+          "long": 3521,
+          "short": 10073,
+          "spreads": 2383
+        },
+        "commercial": {
+          "long": 18385,
+          "short": 10177
+        },
+        "total": {
+          "long": 24289,
+          "short": 22633
+        },
+        "nonReportable": {
+          "long": 2423,
+          "short": 4079
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changeInOpenInterest": 1388,
+      "changes": {
+        "nonCommercial": {
+          "long": 166,
+          "short": 248,
+          "spreads": -60
+        },
+        "commercial": {
+          "long": 1672,
+          "short": 934
+        },
+        "total": {
+          "long": 1778,
+          "short": 1122
+        },
+        "nonReportable": {
+          "long": -390,
+          "short": 266
+        }
+      },
+      "totalChangeFromPreviousWeek": 656,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 13.2,
+          "short": 37.7,
+          "spreads": 8.9
+        },
+        "commercial": {
+          "long": 68.8,
+          "short": 38.1
+        },
+        "total": {
+          "long": 90.9,
+          "short": 84.7
+        },
+        "nonReportable": {
+          "long": 9.1,
+          "short": 15.3
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 13,
+          "short": 26,
+          "spreads": 14
+        },
+        "commercial": {
+          "long": 28,
+          "short": 23
+        },
+        "total": {
+          "long": 51,
+          "short": 55
+        }
+      }
+    },
+    {
+      "marketName": "NON FAT DRY MILK - CHICAGO MERCANTILE EXCHANGE",
+      "code": "052642",
+      "asOfDate": "09/23/25",
+      "contractSize": "CONTRACTS OF 44,000 LBS.",
+      "openInterest": 10755,
+      "commitments": {
+        "nonCommercial": {
+          "long": 39,
+          "short": 1165,
+          "spreads": 295
+        },
+        "commercial": {
+          "long": 9373,
+          "short": 8641
+        },
+        "total": {
+          "long": 9707,
+          "short": 10101
+        },
+        "nonReportable": {
+          "long": 1048,
+          "short": 654
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changeInOpenInterest": 409,
+      "changes": {
+        "nonCommercial": {
+          "long": -11,
+          "short": -60,
+          "spreads": 104
+        },
+        "commercial": {
+          "long": 314,
+          "short": 475
+        },
+        "total": {
+          "long": 407,
+          "short": 519
+        },
+        "nonReportable": {
+          "long": 2,
+          "short": -110
+        }
+      },
+      "totalChangeFromPreviousWeek": -112,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 0.4,
+          "short": 10.8,
+          "spreads": 2.7
+        },
+        "commercial": {
+          "long": 87.2,
+          "short": 80.3
+        },
+        "total": {
+          "long": 90.3,
+          "short": 93.9
+        },
+        "nonReportable": {
+          "long": 9.7,
+          "short": 6.1
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 1,
+          "short": 5,
+          "spreads": 5
+        },
+        "commercial": {
+          "long": 34,
+          "short": 20
+        },
+        "total": {
+          "long": 39,
+          "short": 26
+        }
+      }
+    },
+    {
+      "marketName": "CME MILK IV - CHICAGO MERCANTILE EXCHANGE",
+      "code": "052644",
+      "asOfDate": "09/23/25",
+      "contractSize": "CONTRACTS OF 200,000 POUNDS",
+      "openInterest": 10282,
+      "commitments": {
+        "nonCommercial": {
+          "long": 339,
+          "short": 2116,
+          "spreads": 245
+        },
+        "commercial": {
+          "long": 9632,
+          "short": 7709
+        },
+        "total": {
+          "long": 10216,
+          "short": 10070
+        },
+        "nonReportable": {
+          "long": 66,
+          "short": 212
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changeInOpenInterest": 314,
+      "changes": {
+        "nonCommercial": {
+          "long": -40,
+          "short": 257,
+          "spreads": 63
+        },
+        "commercial": {
+          "long": 259,
+          "short": 134
+        },
+        "total": {
+          "long": 282,
+          "short": 454
+        },
+        "nonReportable": {
+          "long": 32,
+          "short": -140
+        }
+      },
+      "totalChangeFromPreviousWeek": -172,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 3.3,
+          "short": 20.6,
+          "spreads": 2.4
+        },
+        "commercial": {
+          "long": 93.7,
+          "short": 75
+        },
+        "total": {
+          "long": 99.4,
+          "short": 97.9
+        },
+        "nonReportable": {
+          "long": 0.6,
+          "short": 2.1
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 5,
+          "short": 5,
+          "spreads": 5
+        },
+        "commercial": {
+          "long": 20,
+          "short": 14
+        },
+        "total": {
+          "long": 29,
+          "short": 20
+        }
+      }
+    },
+    {
+      "marketName": "LEAN HOGS - CHICAGO MERCANTILE EXCHANGE",
+      "code": "054642",
+      "asOfDate": "09/23/25",
+      "contractSize": "CONTRACTS OF 40,000 POUNDS",
+      "openInterest": 380110,
+      "commitments": {
+        "nonCommercial": {
+          "long": 188096,
+          "short": 91079,
+          "spreads": 75650
+        },
+        "commercial": {
+          "long": 91152,
+          "short": 183330
+        },
+        "total": {
+          "long": 354898,
+          "short": 350059
+        },
+        "nonReportable": {
+          "long": 25212,
+          "short": 30051
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changes": {
+        "nonCommercial": {
+          "long": 3927,
+          "short": 2008,
+          "spreads": -3334
+        },
+        "commercial": {
+          "long": -5496,
+          "short": -2174
+        },
+        "total": {
+          "long": -4903,
+          "short": -3500
+        },
+        "nonReportable": {
+          "long": 1871,
+          "short": 468
+        }
+      },
+      "totalChangeFromPreviousWeek": -1403,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 49.5,
+          "short": 24,
+          "spreads": 19.9
+        },
+        "commercial": {
+          "long": 24,
+          "short": 48.2
+        },
+        "total": {
+          "long": 93.4,
+          "short": 92.1
+        },
+        "nonReportable": {
+          "long": 6.6,
+          "short": 7.9
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 155,
+          "short": 67,
+          "spreads": 109
+        },
+        "commercial": {
+          "long": 84,
+          "short": 120
+        },
+        "total": {
+          "long": 290,
+          "short": 263
+        }
+      }
+    },
+    {
+      "marketName": "LIVE CATTLE - CHICAGO MERCANTILE EXCHANGE",
+      "code": "057642",
+      "asOfDate": "09/23/25",
+      "contractSize": "CONTRACTS OF 40,000 POUNDS",
+      "openInterest": 386579,
+      "commitments": {
+        "nonCommercial": {
+          "long": 180278,
+          "short": 74685,
+          "spreads": 58739
+        },
+        "commercial": {
+          "long": 116054,
+          "short": 201614
+        },
+        "total": {
+          "long": 355071,
+          "short": 335038
+        },
+        "nonReportable": {
+          "long": 31508,
+          "short": 51541
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changes": {
+        "nonCommercial": {
+          "long": -48,
+          "short": -3915,
+          "spreads": 1173
+        },
+        "commercial": {
+          "long": -2572,
+          "short": -360
+        },
+        "total": {
+          "long": -1447,
+          "short": -3102
+        },
+        "nonReportable": {
+          "long": -2002,
+          "short": -347
+        }
+      },
+      "totalChangeFromPreviousWeek": 1655,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 46.6,
+          "short": 19.3,
+          "spreads": 15.2
+        },
+        "commercial": {
+          "long": 30,
+          "short": 52.2
+        },
+        "total": {
+          "long": 91.8,
+          "short": 86.7
+        },
+        "nonReportable": {
+          "long": 8.2,
+          "short": 13.3
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 147,
+          "short": 63,
+          "spreads": 106
+        },
+        "commercial": {
+          "long": 118,
+          "short": 181
+        },
+        "total": {
+          "long": 316,
+          "short": 318
+        }
+      }
+    },
+    {
+      "marketName": "LUMBER - CHICAGO MERCANTILE EXCHANGE",
+      "code": "058644",
+      "asOfDate": "09/23/25",
+      "contractSize": "CONTRACTS OF 27,500 BOARD FEET",
+      "openInterest": 8800,
+      "commitments": {
+        "nonCommercial": {
+          "long": 1585,
+          "short": 4895,
+          "spreads": 184
+        },
+        "commercial": {
+          "long": 6110,
+          "short": 2959
+        },
+        "total": {
+          "long": 7879,
+          "short": 8038
+        },
+        "nonReportable": {
+          "long": 921,
+          "short": 762
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changeInOpenInterest": 557,
+      "changes": {
+        "nonCommercial": {
+          "long": 172,
+          "short": 546,
+          "spreads": 15
+        },
+        "commercial": {
+          "long": 421,
+          "short": -83
+        },
+        "total": {
+          "long": 608,
+          "short": 478
+        },
+        "nonReportable": {
+          "long": -51,
+          "short": 79
+        }
+      },
+      "totalChangeFromPreviousWeek": 130,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 18,
+          "short": 55.6,
+          "spreads": 2.1
+        },
+        "commercial": {
+          "long": 69.4,
+          "short": 33.6
+        },
+        "total": {
+          "long": 89.5,
+          "short": 91.3
+        },
+        "nonReportable": {
+          "long": 10.5,
+          "short": 8.7
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 12,
+          "short": 29,
+          "spreads": 5
+        },
+        "commercial": {
+          "long": 27,
+          "short": 19
+        },
+        "total": {
+          "long": 42,
+          "short": 53
+        }
+      }
+    },
+    {
+      "marketName": "FEEDER CATTLE - CHICAGO MERCANTILE EXCHANGE",
+      "code": "061641",
+      "asOfDate": "09/23/25",
+      "contractSize": "CONTRACTS OF 50,000 POUNDS",
+      "openInterest": 81180,
+      "commitments": {
+        "nonCommercial": {
+          "long": 37913,
+          "short": 20643,
+          "spreads": 17924
+        },
+        "commercial": {
+          "long": 14433,
+          "short": 21670
+        },
+        "total": {
+          "long": 70270,
+          "short": 60237
+        },
+        "nonReportable": {
+          "long": 10910,
+          "short": 20943
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changes": {
+        "nonCommercial": {
+          "long": -872,
+          "short": 857,
+          "spreads": -520
+        },
+        "commercial": {
+          "long": -577,
+          "short": -1292
+        },
+        "total": {
+          "long": -1969,
+          "short": -955
+        },
+        "nonReportable": {
+          "long": 324,
+          "short": -690
+        }
+      },
+      "totalChangeFromPreviousWeek": -1014,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 46.7,
+          "short": 25.4,
+          "spreads": 22.1
+        },
+        "commercial": {
+          "long": 17.8,
+          "short": 26.7
+        },
+        "total": {
+          "long": 86.6,
+          "short": 74.2
+        },
+        "nonReportable": {
+          "long": 13.4,
+          "short": 25.8
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 98,
+          "short": 62,
+          "spreads": 83
+        },
+        "commercial": {
+          "long": 64,
+          "short": 110
+        },
+        "total": {
+          "long": 208,
+          "short": 224
+        }
+      }
+    },
+    {
+      "marketName": "CHEESE (CASH-SETTLED) - CHICAGO MERCANTILE EXCHANGE",
+      "code": "063642",
+      "asOfDate": "09/23/25",
+      "contractSize": "CONTRACTS OF 20,000 POUNDS",
+      "openInterest": 25835,
+      "commitments": {
+        "nonCommercial": {
+          "long": 1077,
+          "short": 7559,
+          "spreads": 1207
+        },
+        "commercial": {
+          "long": 23069,
+          "short": 16394
+        },
+        "total": {
+          "long": 25353,
+          "short": 25160
+        },
+        "nonReportable": {
+          "long": 482,
+          "short": 675
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changeInOpenInterest": 1334,
+      "changes": {
+        "nonCommercial": {
+          "long": -221,
+          "short": 518,
+          "spreads": 163
+        },
+        "commercial": {
+          "long": 1315,
+          "short": 829
+        },
+        "total": {
+          "long": 1257,
+          "short": 1510
+        },
+        "nonReportable": {
+          "long": 77,
+          "short": -176
+        }
+      },
+      "totalChangeFromPreviousWeek": -253,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 4.2,
+          "short": 29.3,
+          "spreads": 4.7
+        },
+        "commercial": {
+          "long": 89.3,
+          "short": 63.5
+        },
+        "total": {
+          "long": 98.1,
+          "short": 97.4
+        },
+        "nonReportable": {
+          "long": 1.9,
+          "short": 2.6
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 4,
+          "short": 23,
+          "spreads": 6
+        },
+        "commercial": {
+          "long": 33,
+          "short": 33
+        },
+        "total": {
+          "long": 40,
+          "short": 59
+        }
+      }
+    },
+    {
+      "marketName": "CANADIAN DOLLAR - CHICAGO MERCANTILE EXCHANGE",
+      "code": "090741",
+      "asOfDate": "09/23/25",
+      "contractSize": "CONTRACTS OF CAD 100,000",
+      "openInterest": 212186,
+      "commitments": {
+        "nonCommercial": {
+          "long": 18035,
+          "short": 132841,
+          "spreads": 3163
+        },
+        "commercial": {
+          "long": 169084,
+          "short": 44903
+        },
+        "total": {
+          "long": 190282,
+          "short": 180907
+        },
+        "nonReportable": {
+          "long": 21904,
+          "short": 31279
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changes": {
+        "nonCommercial": {
+          "long": -2940,
+          "short": 4689,
+          "spreads": -1105
+        },
+        "commercial": {
+          "long": -49909,
+          "short": -59909
+        },
+        "total": {
+          "long": -53954,
+          "short": -56325
+        },
+        "nonReportable": {
+          "long": -707,
+          "short": 1664
+        }
+      },
+      "totalChangeFromPreviousWeek": 2371,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 8.5,
+          "short": 62.6,
+          "spreads": 1.5
+        },
+        "commercial": {
+          "long": 79.7,
+          "short": 21.2
+        },
+        "total": {
+          "long": 89.7,
+          "short": 85.3
+        },
+        "nonReportable": {
+          "long": 10.3,
+          "short": 14.7
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 23,
+          "short": 36,
+          "spreads": 11
+        },
+        "commercial": {
+          "long": 42,
+          "short": 30
+        },
+        "total": {
+          "long": 71,
+          "short": 71
+        }
+      }
+    },
+    {
+      "marketName": "SWISS FRANC - CHICAGO MERCANTILE EXCHANGE",
+      "code": "092741",
+      "asOfDate": "09/23/25",
+      "contractSize": "CONTRACTS OF CHF 125,000",
+      "openInterest": 72030,
+      "commitments": {
+        "nonCommercial": {
+          "long": 8227,
+          "short": 31245,
+          "spreads": 40
+        },
+        "commercial": {
+          "long": 49513,
+          "short": 22854
+        },
+        "total": {
+          "long": 57780,
+          "short": 54139
+        },
+        "nonReportable": {
+          "long": 14250,
+          "short": 17891
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changeInOpenInterest": 300,
+      "changes": {
+        "nonCommercial": {
+          "long": 1992,
+          "short": -1030,
+          "spreads": -444
+        },
+        "commercial": {
+          "long": 108,
+          "short": 1647
+        },
+        "total": {
+          "long": 1656,
+          "short": 173
+        },
+        "nonReportable": {
+          "long": -1356,
+          "short": 127
+        }
+      },
+      "totalChangeFromPreviousWeek": 1483,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 11.4,
+          "short": 43.4,
+          "spreads": 0.1
+        },
+        "commercial": {
+          "long": 68.7,
+          "short": 31.7
+        },
+        "total": {
+          "long": 80.2,
+          "short": 75.2
+        },
+        "nonReportable": {
+          "long": 19.8,
+          "short": 24.8
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 12,
+          "short": 9,
+          "spreads": 3
+        },
+        "commercial": {
+          "long": 10,
+          "short": 14
+        },
+        "total": {
+          "long": 24,
+          "short": 24
+        }
+      }
+    },
+    {
+      "marketName": "MEXICAN PESO - CHICAGO MERCANTILE EXCHANGE",
+      "code": "095741",
+      "asOfDate": "09/23/25",
+      "contractSize": "CONTRACTS OF MXN 500,000",
+      "openInterest": 176007,
+      "commitments": {
+        "nonCommercial": {
+          "long": 107346,
+          "short": 23913,
+          "spreads": 90
+        },
+        "commercial": {
+          "long": 60814,
+          "short": 149153
+        },
+        "total": {
+          "long": 168250,
+          "short": 173156
+        },
+        "nonReportable": {
+          "long": 7757,
+          "short": 2851
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changes": {
+        "nonCommercial": {
+          "long": -5049,
+          "short": -10489,
+          "spreads": -123
+        },
+        "commercial": {
+          "long": -1143,
+          "short": 4455
+        },
+        "total": {
+          "long": -6315,
+          "short": -6157
+        },
+        "nonReportable": {
+          "long": 204,
+          "short": 46
+        }
+      },
+      "totalChangeFromPreviousWeek": -158,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 61,
+          "short": 13.6,
+          "spreads": 0.1
+        },
+        "commercial": {
+          "long": 34.6,
+          "short": 84.7
+        },
+        "total": {
+          "long": 95.6,
+          "short": 98.4
+        },
+        "nonReportable": {
+          "long": 4.4,
+          "short": 1.6
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 95,
+          "short": 19,
+          "spreads": 5
+        },
+        "commercial": {
+          "long": 40,
+          "short": 36
+        },
+        "total": {
+          "long": 135,
+          "short": 60
+        }
+      }
+    },
+    {
+      "marketName": "BRITISH POUND - CHICAGO MERCANTILE EXCHANGE",
+      "code": "096742",
+      "asOfDate": "09/23/25",
+      "contractSize": "CONTRACTS OF GBP 62,500",
+      "openInterest": 233166,
+      "commitments": {
+        "nonCommercial": {
+          "long": 84500,
+          "short": 86464,
+          "spreads": 3229
+        },
+        "commercial": {
+          "long": 112662,
+          "short": 115866
+        },
+        "total": {
+          "long": 200391,
+          "short": 205559
+        },
+        "nonReportable": {
+          "long": 32775,
+          "short": 27607
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changes": {
+        "nonCommercial": {
+          "long": 3704,
+          "short": -912,
+          "spreads": -627
+        },
+        "commercial": {
+          "long": 42,
+          "short": -1853
+        },
+        "total": {
+          "long": 3119,
+          "short": -3392
+        },
+        "nonReportable": {
+          "long": -4484,
+          "short": 2027
+        }
+      },
+      "totalChangeFromPreviousWeek": 6511,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 36.2,
+          "short": 37.1,
+          "spreads": 1.4
+        },
+        "commercial": {
+          "long": 48.3,
+          "short": 49.7
+        },
+        "total": {
+          "long": 85.9,
+          "short": 88.2
+        },
+        "nonReportable": {
+          "long": 14.1,
+          "short": 11.8
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 29,
+          "short": 22,
+          "spreads": 9
+        },
+        "commercial": {
+          "long": 28,
+          "short": 38
+        },
+        "total": {
+          "long": 62,
+          "short": 64
+        }
+      }
+    },
+    {
+      "marketName": "JAPANESE YEN - CHICAGO MERCANTILE EXCHANGE",
+      "code": "097741",
+      "asOfDate": "09/23/25",
+      "contractSize": "CONTRACTS OF JPY 12,500,000",
+      "openInterest": 309893,
+      "commitments": {
+        "nonCommercial": {
+          "long": 176400,
+          "short": 96900,
+          "spreads": 2620
+        },
+        "commercial": {
+          "long": 92252,
+          "short": 175491
+        },
+        "total": {
+          "long": 271272,
+          "short": 275011
+        },
+        "nonReportable": {
+          "long": 38621,
+          "short": 34882
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changeInOpenInterest": 10273,
+      "changes": {
+        "nonCommercial": {
+          "long": 14727,
+          "short": -3362,
+          "spreads": 353
+        },
+        "commercial": {
+          "long": -2905,
+          "short": 11996
+        },
+        "total": {
+          "long": 12175,
+          "short": 8987
+        },
+        "nonReportable": {
+          "long": -1902,
+          "short": 1286
+        }
+      },
+      "totalChangeFromPreviousWeek": 3188,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 56.9,
+          "short": 31.3,
+          "spreads": 0.8
+        },
+        "commercial": {
+          "long": 29.8,
+          "short": 56.6
+        },
+        "total": {
+          "long": 87.5,
+          "short": 88.7
+        },
+        "nonReportable": {
+          "long": 12.5,
+          "short": 11.3
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 29,
+          "short": 39,
+          "spreads": 10
+        },
+        "commercial": {
+          "long": 56,
+          "short": 40
+        },
+        "total": {
+          "long": 92,
+          "short": 82
+        }
+      }
+    },
+    {
+      "marketName": "EURO FX - CHICAGO MERCANTILE EXCHANGE",
+      "code": "099741",
+      "asOfDate": "09/23/25",
+      "contractSize": "CONTRACTS OF EUR 125,000",
+      "openInterest": 859215,
+      "commitments": {
+        "nonCommercial": {
+          "long": 252472,
+          "short": 138127,
+          "spreads": 16213
+        },
+        "commercial": {
+          "long": 495459,
+          "short": 661236
+        },
+        "total": {
+          "long": 764144,
+          "short": 815576
+        },
+        "nonReportable": {
+          "long": 95071,
+          "short": 43639
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changeInOpenInterest": 3767,
+      "changes": {
+        "nonCommercial": {
+          "long": -789,
+          "short": 2625,
+          "spreads": -873
+        },
+        "commercial": {
+          "long": 4978,
+          "short": 3375
+        },
+        "total": {
+          "long": 3316,
+          "short": 5127
+        },
+        "nonReportable": {
+          "long": 451,
+          "short": -1360
+        }
+      },
+      "totalChangeFromPreviousWeek": -1811,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 29.4,
+          "short": 16.1,
+          "spreads": 1.9
+        },
+        "commercial": {
+          "long": 57.7,
+          "short": 77
+        },
+        "total": {
+          "long": 88.9,
+          "short": 94.9
+        },
+        "nonReportable": {
+          "long": 11.1,
+          "short": 5.1
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 91,
+          "short": 41,
+          "spreads": 26
+        },
+        "commercial": {
+          "long": 133,
+          "short": 87
+        },
+        "total": {
+          "long": 233,
+          "short": 145
+        }
+      }
+    },
+    {
+      "marketName": "EURO FX/BRITISH POUND XRATE - CHICAGO MERCANTILE EXCHANGE",
+      "code": "299741",
+      "asOfDate": "09/23/25",
+      "contractSize": "CONTRACTS OF EUR 125,000",
+      "openInterest": 38359,
+      "commitments": {
+        "nonCommercial": {
+          "long": 7580,
+          "short": 6056,
+          "spreads": 0
+        },
+        "commercial": {
+          "long": 15620,
+          "short": 28373
+        },
+        "total": {
+          "long": 23200,
+          "short": 34429
+        },
+        "nonReportable": {
+          "long": 15159,
+          "short": 3930
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changeInOpenInterest": 332,
+      "changes": {
+        "nonCommercial": {
+          "long": -437,
+          "short": -401,
+          "spreads": 0
+        },
+        "commercial": {
+          "long": -340,
+          "short": 415
+        },
+        "total": {
+          "long": -777,
+          "short": 14
+        },
+        "nonReportable": {
+          "long": 1109,
+          "short": 318
+        }
+      },
+      "totalChangeFromPreviousWeek": -791,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 19.8,
+          "short": 15.8,
+          "spreads": 0
+        },
+        "commercial": {
+          "long": 40.7,
+          "short": 74
+        },
+        "total": {
+          "long": 60.5,
+          "short": 89.8
+        },
+        "nonReportable": {
+          "long": 39.5,
+          "short": 10.2
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 7,
+          "short": 3,
+          "spreads": 0
+        },
+        "commercial": {
+          "long": 12,
+          "short": 7
+        },
+        "total": {
+          "long": 19,
+          "short": 10
+        }
+      }
+    },
+    {
+      "marketName": "EURO FX/JAPANESE YEN XRATE - CHICAGO MERCANTILE EXCHANGE",
+      "code": "399741",
+      "asOfDate": "09/23/25",
+      "contractSize": "CONTRACTS OF EUR 125,000",
+      "openInterest": 16836,
+      "commitments": {
+        "nonCommercial": {
+          "long": 4192,
+          "short": 3828,
+          "spreads": 85
+        },
+        "commercial": {
+          "long": 4335,
+          "short": 7872
+        },
+        "total": {
+          "long": 8612,
+          "short": 11785
+        },
+        "nonReportable": {
+          "long": 8224,
+          "short": 5051
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changes": {
+        "nonCommercial": {
+          "long": 706,
+          "short": -7,
+          "spreads": 0
+        },
+        "commercial": {
+          "long": -207,
+          "short": -709
+        },
+        "total": {
+          "long": 499,
+          "short": -716
+        },
+        "nonReportable": {
+          "long": -889,
+          "short": 326
+        }
+      },
+      "totalChangeFromPreviousWeek": 1215,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 24.9,
+          "short": 22.7,
+          "spreads": 0.5
+        },
+        "commercial": {
+          "long": 25.7,
+          "short": 46.8
+        },
+        "total": {
+          "long": 51.2,
+          "short": 70
+        },
+        "nonReportable": {
+          "long": 48.8,
+          "short": 30
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 5,
+          "short": 3,
+          "spreads": 1
+        },
+        "commercial": {
+          "long": 8,
+          "short": 8
+        },
+        "total": {
+          "long": 14,
+          "short": 11
+        }
+      }
+    },
+    {
+      "marketName": "BRAZILIAN REAL - CHICAGO MERCANTILE EXCHANGE",
+      "code": "102741",
+      "asOfDate": "09/23/25",
+      "contractSize": "CONTRACTS OF BRL 100,000",
+      "openInterest": 134318,
+      "commitments": {
+        "nonCommercial": {
+          "long": 76723,
+          "short": 11224,
+          "spreads": 13287
+        },
+        "commercial": {
+          "long": 40216,
+          "short": 108912
+        },
+        "total": {
+          "long": 130226,
+          "short": 133423
+        },
+        "nonReportable": {
+          "long": 4092,
+          "short": 895
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changeInOpenInterest": 14104,
+      "changes": {
+        "nonCommercial": {
+          "long": 3891,
+          "short": 614,
+          "spreads": 8193
+        },
+        "commercial": {
+          "long": 2411,
+          "short": 5355
+        },
+        "total": {
+          "long": 14495,
+          "short": 14162
+        },
+        "nonReportable": {
+          "long": -391,
+          "short": -58
+        }
+      },
+      "totalChangeFromPreviousWeek": 333,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 57.1,
+          "short": 8.4,
+          "spreads": 9.9
+        },
+        "commercial": {
+          "long": 29.9,
+          "short": 81.1
+        },
+        "total": {
+          "long": 97,
+          "short": 99.3
+        },
+        "nonReportable": {
+          "long": 3,
+          "short": 0.7
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 55,
+          "short": 12,
+          "spreads": 7
+        },
+        "commercial": {
+          "long": 26,
+          "short": 12
+        },
+        "total": {
+          "long": 85,
+          "short": 29
+        }
+      }
+    },
+    {
+      "marketName": "NZ DOLLAR - CHICAGO MERCANTILE EXCHANGE",
+      "code": "112741",
+      "asOfDate": "09/23/25",
+      "contractSize": "CONTRACTS OF NZD 100,000",
+      "openInterest": 56346,
+      "commitments": {
+        "nonCommercial": {
+          "long": 12295,
+          "short": 33415,
+          "spreads": 2792
+        },
+        "commercial": {
+          "long": 37503,
+          "short": 14932
+        },
+        "total": {
+          "long": 52590,
+          "short": 51139
+        },
+        "nonReportable": {
+          "long": 3756,
+          "short": 5207
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changeInOpenInterest": 7200,
+      "changes": {
+        "nonCommercial": {
+          "long": 3044,
+          "short": 6160,
+          "spreads": 1186
+        },
+        "commercial": {
+          "long": 2869,
+          "short": -286
+        },
+        "total": {
+          "long": 7099,
+          "short": 7060
+        },
+        "nonReportable": {
+          "long": 101,
+          "short": 140
+        }
+      },
+      "totalChangeFromPreviousWeek": 39,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 21.8,
+          "short": 59.3,
+          "spreads": 5
+        },
+        "commercial": {
+          "long": 66.6,
+          "short": 26.5
+        },
+        "total": {
+          "long": 93.3,
+          "short": 90.8
+        },
+        "nonReportable": {
+          "long": 6.7,
+          "short": 9.2
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 21,
+          "short": 35,
+          "spreads": 8
+        },
+        "commercial": {
+          "long": 21,
+          "short": 20
+        },
+        "total": {
+          "long": 46,
+          "short": 59
+        }
+      }
+    },
+    {
+      "marketName": "SO AFRICAN RAND - CHICAGO MERCANTILE EXCHANGE",
+      "code": "122741",
+      "asOfDate": "09/23/25",
+      "contractSize": "CONTRACTS OF ZAR 500,000",
+      "openInterest": 23282,
+      "commitments": {
+        "nonCommercial": {
+          "long": 13276,
+          "short": 4098,
+          "spreads": 585
+        },
+        "commercial": {
+          "long": 7176,
+          "short": 17793
+        },
+        "total": {
+          "long": 21037,
+          "short": 22476
+        },
+        "nonReportable": {
+          "long": 2245,
+          "short": 806
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changes": {
+        "nonCommercial": {
+          "long": -978,
+          "short": -699,
+          "spreads": 0
+        },
+        "commercial": {
+          "long": 230,
+          "short": -6
+        },
+        "total": {
+          "long": -748,
+          "short": -705
+        },
+        "nonReportable": {
+          "long": -144,
+          "short": -187
+        }
+      },
+      "totalChangeFromPreviousWeek": -43,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 57,
+          "short": 17.6,
+          "spreads": 2.5
+        },
+        "commercial": {
+          "long": 30.8,
+          "short": 76.4
+        },
+        "total": {
+          "long": 90.4,
+          "short": 96.5
+        },
+        "nonReportable": {
+          "long": 9.6,
+          "short": 3.5
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 19,
+          "short": 13,
+          "spreads": 1
+        },
+        "commercial": {
+          "long": 14,
+          "short": 6
+        },
+        "total": {
+          "long": 33,
+          "short": 20
+        }
+      }
+    },
+    {
+      "marketName": "BITCOIN - CHICAGO MERCANTILE EXCHANGE",
+      "code": "133741",
+      "asOfDate": "09/23/25",
+      "contractSize": "5 Bitcoins",
+      "openInterest": 27809,
+      "commitments": {
+        "nonCommercial": {
+          "long": 23140,
+          "short": 23061,
+          "spreads": 2395
+        },
+        "commercial": {
+          "long": 1029,
+          "short": 1354
+        },
+        "total": {
+          "long": 26564,
+          "short": 26810
+        },
+        "nonReportable": {
+          "long": 1245,
+          "short": 999
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changes": {
+        "nonCommercial": {
+          "long": -648,
+          "short": -707,
+          "spreads": -187
+        },
+        "commercial": {
+          "long": -122,
+          "short": -250
+        },
+        "total": {
+          "long": -957,
+          "short": -1144
+        },
+        "nonReportable": {
+          "long": -78,
+          "short": 109
+        }
+      },
+      "totalChangeFromPreviousWeek": 187,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 83.2,
+          "short": 82.9,
+          "spreads": 8.6
+        },
+        "commercial": {
+          "long": 3.7,
+          "short": 4.9
+        },
+        "total": {
+          "long": 95.5,
+          "short": 96.4
+        },
+        "nonReportable": {
+          "long": 4.5,
+          "short": 3.6
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 52,
+          "short": 70,
+          "spreads": 34
+        },
+        "commercial": {
+          "long": 5,
+          "short": 5
+        },
+        "total": {
+          "long": 80,
+          "short": 89
+        }
+      }
+    },
+    {
+      "marketName": "SOFR-3M - CHICAGO MERCANTILE EXCHANGE",
+      "code": "134741",
+      "asOfDate": "09/23/25",
+      "contractSize": "$2,500 x Contract IMM Index",
+      "openInterest": 12470671,
+      "commitments": {
+        "nonCommercial": {
+          "long": 1671860,
+          "short": 1681733,
+          "spreads": 3967600
+        },
+        "commercial": {
+          "long": 6795333,
+          "short": 6786970
+        },
+        "total": {
+          "long": 12434793,
+          "short": 12436303
+        },
+        "nonReportable": {
+          "long": 35878,
+          "short": 34368
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changes": {
+        "nonCommercial": {
+          "long": -327726,
+          "short": -416336,
+          "spreads": -171463
+        },
+        "commercial": {
+          "long": -874798,
+          "short": -785355
+        },
+        "total": {
+          "long": -1373987,
+          "short": -1373154
+        },
+        "nonReportable": {
+          "long": 175,
+          "short": -658
+        }
+      },
+      "totalChangeFromPreviousWeek": -833,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 13.4,
+          "short": 13.5,
+          "spreads": 31.8
+        },
+        "commercial": {
+          "long": 54.5,
+          "short": 54.4
+        },
+        "total": {
+          "long": 99.7,
+          "short": 99.7
+        },
+        "nonReportable": {
+          "long": 0.3,
+          "short": 0.3
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 259,
+          "short": 218,
+          "spreads": 270
+        },
+        "commercial": {
+          "long": 287,
+          "short": 305
+        },
+        "total": {
+          "long": 695,
+          "short": 691
+        }
+      }
+    },
+    {
+      "marketName": "SOFR-1M - CHICAGO MERCANTILE EXCHANGE",
+      "code": "134742",
+      "asOfDate": "09/23/25",
+      "contractSize": "$4,167 x Contract IMM Index",
+      "openInterest": 1820670,
+      "commitments": {
+        "nonCommercial": {
+          "long": 310459,
+          "short": 422795,
+          "spreads": 274614
+        },
+        "commercial": {
+          "long": 1235031,
+          "short": 1123084
+        },
+        "total": {
+          "long": 1820104,
+          "short": 1820493
+        },
+        "nonReportable": {
+          "long": 566,
+          "short": 177
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changeInOpenInterest": 163130,
+      "changes": {
+        "nonCommercial": {
+          "long": 117232,
+          "short": -68226,
+          "spreads": -7131
+        },
+        "commercial": {
+          "long": 52736,
+          "short": 238582
+        },
+        "total": {
+          "long": 162837,
+          "short": 163225
+        },
+        "nonReportable": {
+          "long": 293,
+          "short": -95
+        }
+      },
+      "totalChangeFromPreviousWeek": -388,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 17.1,
+          "short": 23.2,
+          "spreads": 15.1
+        },
+        "commercial": {
+          "long": 67.8,
+          "short": 61.7
+        },
+        "total": {
+          "long": 100,
+          "short": 100
+        },
+        "nonReportable": {
+          "long": 0,
+          "short": 0
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 50,
+          "short": 58,
+          "spreads": 62
+        },
+        "commercial": {
+          "long": 84,
+          "short": 94
+        },
+        "total": {
+          "long": 168,
+          "short": 181
+        }
+      }
+    },
+    {
+      "marketName": "S&P 500 Consolidated - CHICAGO MERCANTILE EXCHANGE",
+      "code": "13874+",
+      "asOfDate": "09/23/25",
+      "contractSize": "S&P 500 INDEX X $50.00",
+      "openInterest": 1963507,
+      "commitments": {
+        "nonCommercial": {
+          "long": 229106,
+          "short": 401946,
+          "spreads": 32815
+        },
+        "commercial": {
+          "long": 1443360,
+          "short": 1354260
+        },
+        "total": {
+          "long": 1705282,
+          "short": 1789022
+        },
+        "nonReportable": {
+          "long": 258225,
+          "short": 174485
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changes": {
+        "nonCommercial": {
+          "long": 8211,
+          "short": -41896,
+          "spreads": -135978
+        },
+        "commercial": {
+          "long": -337709,
+          "short": -289236
+        },
+        "total": {
+          "long": -465476,
+          "short": -467109
+        },
+        "nonReportable": {
+          "long": -38112,
+          "short": -36479
+        }
+      },
+      "totalChangeFromPreviousWeek": 1633,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 11.7,
+          "short": 20.5,
+          "spreads": 1.7
+        },
+        "commercial": {
+          "long": 73.5,
+          "short": 69
+        },
+        "total": {
+          "long": 86.8,
+          "short": 91.1
+        },
+        "nonReportable": {
+          "long": 13.2,
+          "short": 8.9
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 74,
+          "short": 71,
+          "spreads": 38
+        },
+        "commercial": {
+          "long": 248,
+          "short": 194
+        },
+        "total": {
+          "long": 347,
+          "short": 279
+        }
+      }
+    },
+    {
+      "marketName": "E-MINI S&P ENERGY INDEX - CHICAGO MERCANTILE EXCHANGE",
+      "code": "138749",
+      "asOfDate": "09/23/25",
+      "openInterest": 19351,
+      "commitments": {
+        "nonCommercial": {
+          "long": 807,
+          "short": 1217,
+          "spreads": 0
+        },
+        "commercial": {
+          "long": 16276,
+          "short": 12304
+        },
+        "total": {
+          "long": 17083,
+          "short": 13521
+        },
+        "nonReportable": {
+          "long": 2268,
+          "short": 5830
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changes": {
+        "nonCommercial": {
+          "long": -193,
+          "short": -1311,
+          "spreads": -200
+        },
+        "commercial": {
+          "long": -9082,
+          "short": -12485
+        },
+        "total": {
+          "long": -9475,
+          "short": -13996
+        },
+        "nonReportable": {
+          "long": -333,
+          "short": 4188
+        }
+      },
+      "totalChangeFromPreviousWeek": 4521,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 4.2,
+          "short": 6.3,
+          "spreads": 0
+        },
+        "commercial": {
+          "long": 84.1,
+          "short": 63.6
+        },
+        "total": {
+          "long": 88.3,
+          "short": 69.9
+        },
+        "nonReportable": {
+          "long": 11.7,
+          "short": 30.1
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 1,
+          "short": 3,
+          "spreads": 0
+        },
+        "commercial": {
+          "long": 13,
+          "short": 8
+        },
+        "total": {
+          "long": 14,
+          "short": 11
+        }
+      }
+    },
+    {
+      "marketName": "E-MINI S&P 500 - CHICAGO MERCANTILE EXCHANGE",
+      "code": "13874A",
+      "asOfDate": "09/23/25",
+      "contractSize": "$50 X S&P 500 INDEX",
+      "openInterest": 1950977,
+      "commitments": {
+        "nonCommercial": {
+          "long": 228168,
+          "short": 400717,
+          "spreads": 31033
+        },
+        "commercial": {
+          "long": 1440049,
+          "short": 1351412
+        },
+        "total": {
+          "long": 1699250,
+          "short": 1783162
+        },
+        "nonReportable": {
+          "long": 251727,
+          "short": 167815
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changes": {
+        "nonCommercial": {
+          "long": 7586,
+          "short": -44939,
+          "spreads": -120767
+        },
+        "commercial": {
+          "long": -334269,
+          "short": -288887
+        },
+        "total": {
+          "long": -447450,
+          "short": -454593
+        },
+        "nonReportable": {
+          "long": -37472,
+          "short": -30329
+        }
+      },
+      "totalChangeFromPreviousWeek": 7143,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 11.7,
+          "short": 20.5,
+          "spreads": 1.6
+        },
+        "commercial": {
+          "long": 73.8,
+          "short": 69.3
+        },
+        "total": {
+          "long": 87.1,
+          "short": 91.4
+        },
+        "nonReportable": {
+          "long": 12.9,
+          "short": 8.6
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 71,
+          "short": 67,
+          "spreads": 34
+        },
+        "commercial": {
+          "long": 246,
+          "short": 191
+        },
+        "total": {
+          "long": 338,
+          "short": 272
+        }
+      }
+    },
+    {
+      "marketName": "E-MINI S&P FINANCIAL INDEX - CHICAGO MERCANTILE EXCHANGE",
+      "code": "13874C",
+      "asOfDate": "09/23/25",
+      "openInterest": 66281,
+      "commitments": {
+        "nonCommercial": {
+          "long": 1370,
+          "short": 1328,
+          "spreads": 0
+        },
+        "commercial": {
+          "long": 62434,
+          "short": 63999
+        },
+        "total": {
+          "long": 63804,
+          "short": 65327
+        },
+        "nonReportable": {
+          "long": 2477,
+          "short": 954
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changes": {
+        "nonCommercial": {
+          "long": -457,
+          "short": 890,
+          "spreads": -1305
+        },
+        "commercial": {
+          "long": -1920,
+          "short": -3526
+        },
+        "total": {
+          "long": -3682,
+          "short": -3941
+        },
+        "nonReportable": {
+          "long": -525,
+          "short": -266
+        }
+      },
+      "totalChangeFromPreviousWeek": 259,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 2.1,
+          "short": 2,
+          "spreads": 0
+        },
+        "commercial": {
+          "long": 94.2,
+          "short": 96.6
+        },
+        "total": {
+          "long": 96.3,
+          "short": 98.6
+        },
+        "nonReportable": {
+          "long": 3.7,
+          "short": 1.4
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 3,
+          "short": 3,
+          "spreads": 0
+        },
+        "commercial": {
+          "long": 16,
+          "short": 14
+        },
+        "total": {
+          "long": 19,
+          "short": 17
+        }
+      }
+    },
+    {
+      "marketName": "E-MINI S&P INDUSTRIAL INDEX - CHICAGO MERCANTILE EXCHANGE",
+      "code": "13874F",
+      "asOfDate": "09/23/25",
+      "openInterest": 10837,
+      "commitments": {
+        "nonCommercial": {
+          "long": 0,
+          "short": 886,
+          "spreads": 0
+        },
+        "commercial": {
+          "long": 8948,
+          "short": 9351
+        },
+        "total": {
+          "long": 8948,
+          "short": 10237
+        },
+        "nonReportable": {
+          "long": 1889,
+          "short": 600
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changes": {
+        "nonCommercial": {
+          "long": 0,
+          "short": -805,
+          "spreads": -7
+        },
+        "commercial": {
+          "long": -3900,
+          "short": -2991
+        },
+        "total": {
+          "long": -3907,
+          "short": -3803
+        },
+        "nonReportable": {
+          "long": -1199,
+          "short": -1303
+        }
+      },
+      "totalChangeFromPreviousWeek": -104,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 0,
+          "short": 8.2,
+          "spreads": 0
+        },
+        "commercial": {
+          "long": 82.6,
+          "short": 86.3
+        },
+        "total": {
+          "long": 82.6,
+          "short": 94.5
+        },
+        "nonReportable": {
+          "long": 17.4,
+          "short": 5.5
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 0,
+          "short": 3,
+          "spreads": 0
+        },
+        "commercial": {
+          "long": 9,
+          "short": 9
+        },
+        "total": {
+          "long": 9,
+          "short": 12
+        }
+      }
+    },
+    {
+      "marketName": "E-MINI S&P TECHNOLOGY INDEX - CHICAGO MERCANTILE EXCHANGE",
+      "code": "13874I",
+      "asOfDate": "09/23/25",
+      "openInterest": 19498,
+      "commitments": {
+        "nonCommercial": {
+          "long": 1481,
+          "short": 607,
+          "spreads": 0
+        },
+        "commercial": {
+          "long": 15079,
+          "short": 18555
+        },
+        "total": {
+          "long": 16560,
+          "short": 19162
+        },
+        "nonReportable": {
+          "long": 2938,
+          "short": 336
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changes": {
+        "nonCommercial": {
+          "long": -369,
+          "short": -196,
+          "spreads": 0
+        },
+        "commercial": {
+          "long": -1541,
+          "short": -2017
+        },
+        "total": {
+          "long": -1910,
+          "short": -2213
+        },
+        "nonReportable": {
+          "long": -779,
+          "short": -476
+        }
+      },
+      "totalChangeFromPreviousWeek": 303,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 7.6,
+          "short": 3.1,
+          "spreads": 0
+        },
+        "commercial": {
+          "long": 77.3,
+          "short": 95.2
+        },
+        "total": {
+          "long": 84.9,
+          "short": 98.3
+        },
+        "nonReportable": {
+          "long": 15.1,
+          "short": 1.7
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 2,
+          "short": 1,
+          "spreads": 0
+        },
+        "commercial": {
+          "long": 14,
+          "short": 10
+        },
+        "total": {
+          "long": 16,
+          "short": 11
+        }
+      }
+    },
+    {
+      "marketName": "E-MINI S&P UTILITIES INDEX - CHICAGO MERCANTILE EXCHANGE",
+      "code": "13874J",
+      "asOfDate": "09/23/25",
+      "openInterest": 31718,
+      "commitments": {
+        "nonCommercial": {
+          "long": 4051,
+          "short": 331,
+          "spreads": 0
+        },
+        "commercial": {
+          "long": 22834,
+          "short": 30559
+        },
+        "total": {
+          "long": 26885,
+          "short": 30890
+        },
+        "nonReportable": {
+          "long": 4833,
+          "short": 828
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changes": {
+        "nonCommercial": {
+          "long": 549,
+          "short": -1203,
+          "spreads": -723
+        },
+        "commercial": {
+          "long": -11240,
+          "short": -7643
+        },
+        "total": {
+          "long": -11414,
+          "short": -9569
+        },
+        "nonReportable": {
+          "long": 1393,
+          "short": -452
+        }
+      },
+      "totalChangeFromPreviousWeek": -1845,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 12.8,
+          "short": 1,
+          "spreads": 0
+        },
+        "commercial": {
+          "long": 72,
+          "short": 96.3
+        },
+        "total": {
+          "long": 84.8,
+          "short": 97.4
+        },
+        "nonReportable": {
+          "long": 15.2,
+          "short": 2.6
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 7,
+          "short": 1,
+          "spreads": 0
+        },
+        "commercial": {
+          "long": 14,
+          "short": 13
+        },
+        "total": {
+          "long": 21,
+          "short": 14
+        }
+      }
+    },
+    {
+      "marketName": "E-MINI S&P COMMUNICATION INDEX - CHICAGO MERCANTILE EXCHANGE",
+      "code": "13874P",
+      "asOfDate": "09/23/25",
+      "openInterest": 20685,
+      "commitments": {
+        "nonCommercial": {
+          "long": 1103,
+          "short": 1491,
+          "spreads": 0
+        },
+        "commercial": {
+          "long": 17893,
+          "short": 18879
+        },
+        "total": {
+          "long": 18996,
+          "short": 20370
+        },
+        "nonReportable": {
+          "long": 1689,
+          "short": 315
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changes": {
+        "nonCommercial": {
+          "long": -386,
+          "short": 997,
+          "spreads": -321
+        },
+        "commercial": {
+          "long": -3553,
+          "short": -4760
+        },
+        "total": {
+          "long": -4260,
+          "short": -4084
+        },
+        "nonReportable": {
+          "long": -4437,
+          "short": -4613
+        }
+      },
+      "totalChangeFromPreviousWeek": -176,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 5.3,
+          "short": 7.2,
+          "spreads": 0
+        },
+        "commercial": {
+          "long": 86.5,
+          "short": 91.3
+        },
+        "total": {
+          "long": 91.8,
+          "short": 98.5
+        },
+        "nonReportable": {
+          "long": 8.2,
+          "short": 1.5
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 2,
+          "short": 2,
+          "spreads": 0
+        },
+        "commercial": {
+          "long": 10,
+          "short": 6
+        },
+        "total": {
+          "long": 12,
+          "short": 8
+        }
+      }
+    },
+    {
+      "marketName": "MICRO E-MINI S&P 500 INDEX - CHICAGO MERCANTILE EXCHANGE",
+      "code": "13874U",
+      "asOfDate": "09/23/25",
+      "contractSize": "$5 X S&P 500 INDEX",
+      "openInterest": 125295,
+      "commitments": {
+        "nonCommercial": {
+          "long": 26107,
+          "short": 29018,
+          "spreads": 1098
+        },
+        "commercial": {
+          "long": 33114,
+          "short": 28483
+        },
+        "total": {
+          "long": 60319,
+          "short": 58599
+        },
+        "nonReportable": {
+          "long": 64976,
+          "short": 66696
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changes": {
+        "nonCommercial": {
+          "long": -121001,
+          "short": -96819,
+          "spreads": -24857
+        },
+        "commercial": {
+          "long": -34401,
+          "short": -3487
+        },
+        "total": {
+          "long": -180259,
+          "short": -125163
+        },
+        "nonReportable": {
+          "long": -6401,
+          "short": -61497
+        }
+      },
+      "totalChangeFromPreviousWeek": -55096,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 20.8,
+          "short": 23.2,
+          "spreads": 0.9
+        },
+        "commercial": {
+          "long": 26.4,
+          "short": 22.7
+        },
+        "total": {
+          "long": 48.1,
+          "short": 46.8
+        },
+        "nonReportable": {
+          "long": 51.9,
+          "short": 53.2
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 7,
+          "short": 5,
+          "spreads": 4
+        },
+        "commercial": {
+          "long": 13,
+          "short": 9
+        },
+        "total": {
+          "long": 23,
+          "short": 15
+        }
+      }
+    },
+    {
+      "marketName": "ADJUSTED INT RATE S&P 500 TOTL - CHICAGO MERCANTILE EXCHANGE",
+      "code": "13874W",
+      "asOfDate": "09/23/25",
+      "contractSize": "S&P 500 TOTAL RETURN INDEX x $25",
+      "openInterest": 903045,
+      "commitments": {
+        "nonCommercial": {
+          "long": 65278,
+          "short": 63745,
+          "spreads": 156848
+        },
+        "commercial": {
+          "long": 674483,
+          "short": 670839
+        },
+        "total": {
+          "long": 896609,
+          "short": 891432
+        },
+        "nonReportable": {
+          "long": 6436,
+          "short": 11613
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changes": {
+        "nonCommercial": {
+          "long": -15250,
+          "short": 4845,
+          "spreads": -17755
+        },
+        "commercial": {
+          "long": -74838,
+          "short": -93641
+        },
+        "total": {
+          "long": -107843,
+          "short": -106551
+        },
+        "nonReportable": {
+          "long": 2371,
+          "short": 1079
+        }
+      },
+      "totalChangeFromPreviousWeek": -1292,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 7.2,
+          "short": 7.1,
+          "spreads": 17.4
+        },
+        "commercial": {
+          "long": 74.7,
+          "short": 74.3
+        },
+        "total": {
+          "long": 99.3,
+          "short": 98.7
+        },
+        "nonReportable": {
+          "long": 0.7,
+          "short": 1.3
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 8,
+          "short": 7,
+          "spreads": 19
+        },
+        "commercial": {
+          "long": 41,
+          "short": 47
+        },
+        "total": {
+          "long": 60,
+          "short": 66
+        }
+      }
+    },
+    {
+      "marketName": "E-MINI S&P 400 STOCK INDEX - CHICAGO MERCANTILE EXCHANGE",
+      "code": "33874A",
+      "asOfDate": "09/23/25",
+      "contractSize": "S&P 400 INDEX X $100",
+      "openInterest": 41516,
+      "commitments": {
+        "nonCommercial": {
+          "long": 5513,
+          "short": 4733,
+          "spreads": 136
+        },
+        "commercial": {
+          "long": 27076,
+          "short": 32058
+        },
+        "total": {
+          "long": 32725,
+          "short": 36927
+        },
+        "nonReportable": {
+          "long": 8791,
+          "short": 4589
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changes": {
+        "nonCommercial": {
+          "long": 536,
+          "short": -320,
+          "spreads": -61
+        },
+        "commercial": {
+          "long": -6558,
+          "short": -5293
+        },
+        "total": {
+          "long": -6083,
+          "short": -5674
+        },
+        "nonReportable": {
+          "long": -282,
+          "short": -691
+        }
+      },
+      "totalChangeFromPreviousWeek": -409,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 13.3,
+          "short": 11.4,
+          "spreads": 0.3
+        },
+        "commercial": {
+          "long": 65.2,
+          "short": 77.2
+        },
+        "total": {
+          "long": 78.8,
+          "short": 88.9
+        },
+        "nonReportable": {
+          "long": 21.2,
+          "short": 11.1
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 6,
+          "short": 9,
+          "spreads": 2
+        },
+        "commercial": {
+          "long": 43,
+          "short": 26
+        },
+        "total": {
+          "long": 50,
+          "short": 36
+        }
+      }
+    },
+    {
+      "marketName": "ETHER CASH SETTLED - CHICAGO MERCANTILE EXCHANGE",
+      "code": "146021",
+      "asOfDate": "09/23/25",
+      "contractSize": "50 Index Points",
+      "openInterest": 42940,
+      "commitments": {
+        "nonCommercial": {
+          "long": 33928,
+          "short": 30508,
+          "spreads": 6910
+        },
+        "commercial": {
+          "long": 806,
+          "short": 4567
+        },
+        "total": {
+          "long": 41644,
+          "short": 41985
+        },
+        "nonReportable": {
+          "long": 1296,
+          "short": 955
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changeInOpenInterest": 4731,
+      "changes": {
+        "nonCommercial": {
+          "long": 61,
+          "short": -1104,
+          "spreads": 4692
+        },
+        "commercial": {
+          "long": -21,
+          "short": 996
+        },
+        "total": {
+          "long": 4732,
+          "short": 4584
+        },
+        "nonReportable": {
+          "long": -1,
+          "short": 147
+        }
+      },
+      "totalChangeFromPreviousWeek": 148,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 79,
+          "short": 71,
+          "spreads": 16.1
+        },
+        "commercial": {
+          "long": 1.9,
+          "short": 10.6
+        },
+        "total": {
+          "long": 97,
+          "short": 97.8
+        },
+        "nonReportable": {
+          "long": 3,
+          "short": 2.2
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 43,
+          "short": 48,
+          "spreads": 20
+        },
+        "commercial": {
+          "long": 4,
+          "short": 3
+        },
+        "total": {
+          "long": 57,
+          "short": 61
+        }
+      }
+    },
+    {
+      "marketName": "XRP - CHICAGO MERCANTILE EXCHANGE",
+      "code": "176740",
+      "asOfDate": "09/23/25",
+      "contractSize": "Contracts of 50,000 XRP",
+      "openInterest": 8485,
+      "commitments": {
+        "nonCommercial": {
+          "long": 8217,
+          "short": 8219,
+          "spreads": 113
+        },
+        "commercial": {
+          "long": 0,
+          "short": 0
+        },
+        "total": {
+          "long": 8330,
+          "short": 8332
+        },
+        "nonReportable": {
+          "long": 155,
+          "short": 153
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changeInOpenInterest": 86,
+      "changes": {
+        "nonCommercial": {
+          "long": 42,
+          "short": 124,
+          "spreads": 53
+        },
+        "commercial": {
+          "long": 0,
+          "short": 0
+        },
+        "total": {
+          "long": 95,
+          "short": 177
+        },
+        "nonReportable": {
+          "long": -9,
+          "short": -91
+        }
+      },
+      "totalChangeFromPreviousWeek": -82,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 96.8,
+          "short": 96.9,
+          "spreads": 1.3
+        },
+        "commercial": {
+          "long": 0,
+          "short": 0
+        },
+        "total": {
+          "long": 98.2,
+          "short": 98.2
+        },
+        "nonReportable": {
+          "long": 1.8,
+          "short": 1.8
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 9,
+          "short": 18,
+          "spreads": 7
+        },
+        "commercial": {
+          "long": 0,
+          "short": 0
+        },
+        "total": {
+          "long": 13,
+          "short": 23
+        }
+      }
+    },
+    {
+      "marketName": "SOL - CHICAGO MERCANTILE EXCHANGE",
+      "code": "177741",
+      "asOfDate": "09/23/25",
+      "openInterest": 16723,
+      "commitments": {
+        "nonCommercial": {
+          "long": 14721,
+          "short": 14428,
+          "spreads": 1300
+        },
+        "commercial": {
+          "long": 215,
+          "short": 587
+        },
+        "total": {
+          "long": 16236,
+          "short": 16315
+        },
+        "nonReportable": {
+          "long": 487,
+          "short": 408
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changeInOpenInterest": 504,
+      "changes": {
+        "nonCommercial": {
+          "long": -560,
+          "short": -1079,
+          "spreads": 923
+        },
+        "commercial": {
+          "long": -4,
+          "short": 587
+        },
+        "total": {
+          "long": 359,
+          "short": 431
+        },
+        "nonReportable": {
+          "long": 145,
+          "short": 73
+        }
+      },
+      "totalChangeFromPreviousWeek": -72,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 88,
+          "short": 86.3,
+          "spreads": 7.8
+        },
+        "commercial": {
+          "long": 1.3,
+          "short": 3.5
+        },
+        "total": {
+          "long": 97.1,
+          "short": 97.6
+        },
+        "nonReportable": {
+          "long": 2.9,
+          "short": 2.4
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 8,
+          "short": 20,
+          "spreads": 7
+        },
+        "commercial": {
+          "long": 1,
+          "short": 3
+        },
+        "total": {
+          "long": 14,
+          "short": 26
+        }
+      }
+    },
+    {
+      "marketName": "MICRO BITCOIN - CHICAGO MERCANTILE EXCHANGE",
+      "code": "133742",
+      "asOfDate": "09/23/25",
+      "contractSize": "Bitcoin X $0.10",
+      "openInterest": 31672,
+      "commitments": {
+        "nonCommercial": {
+          "long": 19682,
+          "short": 25024,
+          "spreads": 4436
+        },
+        "commercial": {
+          "long": 0,
+          "short": 0
+        },
+        "total": {
+          "long": 24118,
+          "short": 29460
+        },
+        "nonReportable": {
+          "long": 7554,
+          "short": 2212
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changeInOpenInterest": 3852,
+      "changes": {
+        "nonCommercial": {
+          "long": 344,
+          "short": 981,
+          "spreads": 2796
+        },
+        "commercial": {
+          "long": 0,
+          "short": 0
+        },
+        "total": {
+          "long": 3140,
+          "short": 3777
+        },
+        "nonReportable": {
+          "long": 712,
+          "short": 75
+        }
+      },
+      "totalChangeFromPreviousWeek": -637,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 62.1,
+          "short": 79,
+          "spreads": 14
+        },
+        "commercial": {
+          "long": 0,
+          "short": 0
+        },
+        "total": {
+          "long": 76.1,
+          "short": 93
+        },
+        "nonReportable": {
+          "long": 23.9,
+          "short": 7
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 157,
+          "short": 66,
+          "spreads": 20
+        },
+        "commercial": {
+          "long": 0,
+          "short": 0
+        },
+        "total": {
+          "long": 168,
+          "short": 75
+        }
+      }
+    },
+    {
+      "marketName": "MICRO ETHER - CHICAGO MERCANTILE EXCHANGE",
+      "code": "146022",
+      "asOfDate": "09/23/25",
+      "contractSize": "0.1 Index Points",
+      "openInterest": 233155,
+      "commitments": {
+        "nonCommercial": {
+          "long": 221390,
+          "short": 227688,
+          "spreads": 4605
+        },
+        "commercial": {
+          "long": 0,
+          "short": 0
+        },
+        "total": {
+          "long": 225995,
+          "short": 232293
+        },
+        "nonReportable": {
+          "long": 7160,
+          "short": 862
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changeInOpenInterest": 74866,
+      "changes": {
+        "nonCommercial": {
+          "long": 82892,
+          "short": 83253,
+          "spreads": -8290
+        },
+        "commercial": {
+          "long": 0,
+          "short": 0
+        },
+        "total": {
+          "long": 74602,
+          "short": 74963
+        },
+        "nonReportable": {
+          "long": 264,
+          "short": -97
+        }
+      },
+      "totalChangeFromPreviousWeek": -361,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 95,
+          "short": 97.7,
+          "spreads": 2
+        },
+        "commercial": {
+          "long": 0,
+          "short": 0
+        },
+        "total": {
+          "long": 96.9,
+          "short": 99.6
+        },
+        "nonReportable": {
+          "long": 3.1,
+          "short": 0.4
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 397,
+          "short": 76,
+          "spreads": 14
+        },
+        "commercial": {
+          "long": 0,
+          "short": 0
+        },
+        "total": {
+          "long": 406,
+          "short": 82
+        }
+      }
+    },
+    {
+      "marketName": "MICRO SOL - CHICAGO MERCANTILE EXCHANGE",
+      "code": "177742",
+      "asOfDate": "09/23/25",
+      "openInterest": 4180,
+      "commitments": {
+        "nonCommercial": {
+          "long": 3159,
+          "short": 3855,
+          "spreads": 43
+        },
+        "commercial": {
+          "long": 0,
+          "short": 0
+        },
+        "total": {
+          "long": 3202,
+          "short": 3898
+        },
+        "nonReportable": {
+          "long": 978,
+          "short": 282
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changeInOpenInterest": 1378,
+      "changes": {
+        "nonCommercial": {
+          "long": 1208,
+          "short": 1351,
+          "spreads": 41
+        },
+        "commercial": {
+          "long": 0,
+          "short": 0
+        },
+        "total": {
+          "long": 1249,
+          "short": 1392
+        },
+        "nonReportable": {
+          "long": 129,
+          "short": -14
+        }
+      },
+      "totalChangeFromPreviousWeek": -143,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 75.6,
+          "short": 92.2,
+          "spreads": 1
+        },
+        "commercial": {
+          "long": 0,
+          "short": 0
+        },
+        "total": {
+          "long": 76.6,
+          "short": 93.3
+        },
+        "nonReportable": {
+          "long": 23.4,
+          "short": 6.7
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 9,
+          "short": 11,
+          "spreads": 4
+        },
+        "commercial": {
+          "long": 0,
+          "short": 0
+        },
+        "total": {
+          "long": 10,
+          "short": 14
+        }
+      }
+    },
+    {
+      "marketName": "NASDAQ-100 Consolidated - CHICAGO MERCANTILE EXCHANGE",
+      "code": "20974+",
+      "asOfDate": "09/23/25",
+      "contractSize": "NASDAQ 100 INDEX X $20",
+      "openInterest": 281162,
+      "commitments": {
+        "nonCommercial": {
+          "long": 91435,
+          "short": 67416,
+          "spreads": 7164
+        },
+        "commercial": {
+          "long": 141614,
+          "short": 169440
+        },
+        "total": {
+          "long": 240212,
+          "short": 244019
+        },
+        "nonReportable": {
+          "long": 40950,
+          "short": 37143
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changes": {
+        "nonCommercial": {
+          "long": 4454,
+          "short": 1388,
+          "spreads": -38618
+        },
+        "commercial": {
+          "long": -46870,
+          "short": -44235
+        },
+        "total": {
+          "long": -81034,
+          "short": -81465
+        },
+        "nonReportable": {
+          "long": -3696,
+          "short": -3264
+        }
+      },
+      "totalChangeFromPreviousWeek": 431,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 32.5,
+          "short": 24,
+          "spreads": 2.5
+        },
+        "commercial": {
+          "long": 50.4,
+          "short": 60.3
+        },
+        "total": {
+          "long": 85.4,
+          "short": 86.8
+        },
+        "nonReportable": {
+          "long": 14.6,
+          "short": 13.2
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 73,
+          "short": 59,
+          "spreads": 21
+        },
+        "commercial": {
+          "long": 122,
+          "short": 87
+        },
+        "total": {
+          "long": 206,
+          "short": 156
+        }
+      }
+    },
+    {
+      "marketName": "NASDAQ MINI - CHICAGO MERCANTILE EXCHANGE",
+      "code": "209742",
+      "asOfDate": "09/23/25",
+      "contractSize": "NASDAQ 100 STOCK INDEX X $20",
+      "openInterest": 274695,
+      "commitments": {
+        "nonCommercial": {
+          "long": 89971,
+          "short": 66566,
+          "spreads": 6587
+        },
+        "commercial": {
+          "long": 140942,
+          "short": 168335
+        },
+        "total": {
+          "long": 237500,
+          "short": 241488
+        },
+        "nonReportable": {
+          "long": 37195,
+          "short": 33207
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changes": {
+        "nonCommercial": {
+          "long": -214,
+          "short": -5813,
+          "spreads": -25308
+        },
+        "commercial": {
+          "long": -46869,
+          "short": -43755
+        },
+        "total": {
+          "long": -72391,
+          "short": -74876
+        },
+        "nonReportable": {
+          "long": -4335,
+          "short": -1850
+        }
+      },
+      "totalChangeFromPreviousWeek": 2485,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 32.8,
+          "short": 24.2,
+          "spreads": 2.4
+        },
+        "commercial": {
+          "long": 51.3,
+          "short": 61.3
+        },
+        "total": {
+          "long": 86.5,
+          "short": 87.9
+        },
+        "nonReportable": {
+          "long": 13.5,
+          "short": 12.1
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 58,
+          "short": 47,
+          "spreads": 16
+        },
+        "commercial": {
+          "long": 113,
+          "short": 80
+        },
+        "total": {
+          "long": 180,
+          "short": 134
+        }
+      }
+    },
+    {
+      "marketName": "MICRO E-MINI NASDAQ-100 INDEX - CHICAGO MERCANTILE EXCHANGE",
+      "code": "209747",
+      "asOfDate": "09/23/25",
+      "contractSize": "NASDAQ 100 STOCK INDEX x $2",
+      "openInterest": 64670,
+      "commitments": {
+        "nonCommercial": {
+          "long": 18615,
+          "short": 12477,
+          "spreads": 1788
+        },
+        "commercial": {
+          "long": 6717,
+          "short": 11046
+        },
+        "total": {
+          "long": 27120,
+          "short": 25311
+        },
+        "nonReportable": {
+          "long": 37550,
+          "short": 39359
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changes": {
+        "nonCommercial": {
+          "long": -80086,
+          "short": -54753,
+          "spreads": -6335
+        },
+        "commercial": {
+          "long": -6,
+          "short": -4802
+        },
+        "total": {
+          "long": -86427,
+          "short": -65890
+        },
+        "nonReportable": {
+          "long": 6393,
+          "short": -14144
+        }
+      },
+      "totalChangeFromPreviousWeek": -20537,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 28.8,
+          "short": 19.3,
+          "spreads": 2.8
+        },
+        "commercial": {
+          "long": 10.4,
+          "short": 17.1
+        },
+        "total": {
+          "long": 41.9,
+          "short": 39.1
+        },
+        "nonReportable": {
+          "long": 58.1,
+          "short": 60.9
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 22,
+          "short": 18,
+          "spreads": 6
+        },
+        "commercial": {
+          "long": 11,
+          "short": 11
+        },
+        "total": {
+          "long": 35,
+          "short": 33
+        }
+      }
+    },
+    {
+      "marketName": "AUSTRALIAN DOLLAR - CHICAGO MERCANTILE EXCHANGE",
+      "code": "232741",
+      "asOfDate": "09/23/25",
+      "contractSize": "CONTRACTS OF AUD 100,000",
+      "openInterest": 160854,
+      "commitments": {
+        "nonCommercial": {
+          "long": 41994,
+          "short": 101584,
+          "spreads": 1590
+        },
+        "commercial": {
+          "long": 89563,
+          "short": 40649
+        },
+        "total": {
+          "long": 133147,
+          "short": 143823
+        },
+        "nonReportable": {
+          "long": 27707,
+          "short": 17031
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changeInOpenInterest": 6064,
+      "changes": {
+        "nonCommercial": {
+          "long": 1718,
+          "short": 10148,
+          "spreads": -929
+        },
+        "commercial": {
+          "long": 7480,
+          "short": -783
+        },
+        "total": {
+          "long": 8269,
+          "short": 8436
+        },
+        "nonReportable": {
+          "long": -2205,
+          "short": -2372
+        }
+      },
+      "totalChangeFromPreviousWeek": -167,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 26.1,
+          "short": 63.2,
+          "spreads": 1
+        },
+        "commercial": {
+          "long": 55.7,
+          "short": 25.3
+        },
+        "total": {
+          "long": 82.8,
+          "short": 89.4
+        },
+        "nonReportable": {
+          "long": 17.2,
+          "short": 10.6
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 32,
+          "short": 24,
+          "spreads": 13
+        },
+        "commercial": {
+          "long": 40,
+          "short": 20
+        },
+        "total": {
+          "long": 78,
+          "short": 51
+        }
+      }
+    },
+    {
+      "marketName": "RUSSELL E-MINI - CHICAGO MERCANTILE EXCHANGE",
+      "code": "239742",
+      "asOfDate": "09/23/25",
+      "contractSize": "RUSSEL 2000 INDEX X $50",
+      "openInterest": 369261,
+      "commitments": {
+        "nonCommercial": {
+          "long": 35909,
+          "short": 87894,
+          "spreads": 6333
+        },
+        "commercial": {
+          "long": 293480,
+          "short": 254785
+        },
+        "total": {
+          "long": 335722,
+          "short": 349012
+        },
+        "nonReportable": {
+          "long": 33539,
+          "short": 20249
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changes": {
+        "nonCommercial": {
+          "long": -14570,
+          "short": -48419,
+          "spreads": -15922
+        },
+        "commercial": {
+          "long": -72123,
+          "short": -34011
+        },
+        "total": {
+          "long": -102615,
+          "short": -98352
+        },
+        "nonReportable": {
+          "long": -5450,
+          "short": -9713
+        }
+      },
+      "totalChangeFromPreviousWeek": -4263,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 9.7,
+          "short": 23.8,
+          "spreads": 1.7
+        },
+        "commercial": {
+          "long": 79.5,
+          "short": 69
+        },
+        "total": {
+          "long": 90.9,
+          "short": 94.5
+        },
+        "nonReportable": {
+          "long": 9.1,
+          "short": 5.5
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 48,
+          "short": 45,
+          "spreads": 24
+        },
+        "commercial": {
+          "long": 148,
+          "short": 125
+        },
+        "total": {
+          "long": 207,
+          "short": 183
+        }
+      }
+    },
+    {
+      "marketName": "EMINI RUSSELL 1000 VALUE INDEX - CHICAGO MERCANTILE EXCHANGE",
+      "code": "239744",
+      "asOfDate": "09/23/25",
+      "contractSize": "RUSSELL 1000 VALUE INDEX x $50",
+      "openInterest": 29017,
+      "commitments": {
+        "nonCommercial": {
+          "long": 2165,
+          "short": 17182,
+          "spreads": 0
+        },
+        "commercial": {
+          "long": 25281,
+          "short": 11053
+        },
+        "total": {
+          "long": 27446,
+          "short": 28235
+        },
+        "nonReportable": {
+          "long": 1571,
+          "short": 782
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changes": {
+        "nonCommercial": {
+          "long": -484,
+          "short": 1984,
+          "spreads": -400
+        },
+        "commercial": {
+          "long": -4215,
+          "short": -6949
+        },
+        "total": {
+          "long": -5099,
+          "short": -5365
+        },
+        "nonReportable": {
+          "long": -264,
+          "short": 2
+        }
+      },
+      "totalChangeFromPreviousWeek": 266,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 7.5,
+          "short": 59.2,
+          "spreads": 0
+        },
+        "commercial": {
+          "long": 87.1,
+          "short": 38.1
+        },
+        "total": {
+          "long": 94.6,
+          "short": 97.3
+        },
+        "nonReportable": {
+          "long": 5.4,
+          "short": 2.7
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 2,
+          "short": 3,
+          "spreads": 0
+        },
+        "commercial": {
+          "long": 9,
+          "short": 6
+        },
+        "total": {
+          "long": 11,
+          "short": 9
+        }
+      }
+    },
+    {
+      "marketName": "MICRO E-MINI RUSSELL 2000 INDX - CHICAGO MERCANTILE EXCHANGE",
+      "code": "239747",
+      "asOfDate": "09/23/25",
+      "contractSize": "RUSSEL 2000 INDEX X $0.5",
+      "openInterest": 17950,
+      "commitments": {
+        "nonCommercial": {
+          "long": 5593,
+          "short": 3936,
+          "spreads": 226
+        },
+        "commercial": {
+          "long": 3610,
+          "short": 402
+        },
+        "total": {
+          "long": 9429,
+          "short": 4564
+        },
+        "nonReportable": {
+          "long": 8521,
+          "short": 13386
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changes": {
+        "nonCommercial": {
+          "long": -1381,
+          "short": -2947,
+          "spreads": -3695
+        },
+        "commercial": {
+          "long": -18903,
+          "short": -23
+        },
+        "total": {
+          "long": -23979,
+          "short": -6665
+        },
+        "nonReportable": {
+          "long": -254,
+          "short": -17568
+        }
+      },
+      "totalChangeFromPreviousWeek": -17314,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 31.2,
+          "short": 21.9,
+          "spreads": 1.3
+        },
+        "commercial": {
+          "long": 20.1,
+          "short": 2.2
+        },
+        "total": {
+          "long": 52.5,
+          "short": 25.4
+        },
+        "nonReportable": {
+          "long": 47.5,
+          "short": 74.6
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 7,
+          "short": 5,
+          "spreads": 3
+        },
+        "commercial": {
+          "long": 9,
+          "short": 2
+        },
+        "total": {
+          "long": 18,
+          "short": 8
+        }
+      }
+    },
+    {
+      "marketName": "RUSSELL 2000 ANNUAL DIVIDEND - CHICAGO MERCANTILE EXCHANGE",
+      "code": "239750",
+      "asOfDate": "09/23/25",
+      "contractSize": "RUSSEL 2000 INDEX X $100",
+      "openInterest": 28658,
+      "commitments": {
+        "nonCommercial": {
+          "long": 13581,
+          "short": 6602,
+          "spreads": 2730
+        },
+        "commercial": {
+          "long": 11895,
+          "short": 19097
+        },
+        "total": {
+          "long": 28206,
+          "short": 28429
+        },
+        "nonReportable": {
+          "long": 452,
+          "short": 229
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changeInOpenInterest": 2022,
+      "changes": {
+        "nonCommercial": {
+          "long": 1982,
+          "short": 60,
+          "spreads": 15
+        },
+        "commercial": {
+          "long": 20,
+          "short": 1947
+        },
+        "total": {
+          "long": 2017,
+          "short": 2022
+        },
+        "nonReportable": {
+          "long": 5,
+          "short": 0
+        }
+      },
+      "totalChangeFromPreviousWeek": -5,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 47.4,
+          "short": 23,
+          "spreads": 9.5
+        },
+        "commercial": {
+          "long": 41.5,
+          "short": 66.6
+        },
+        "total": {
+          "long": 98.4,
+          "short": 99.2
+        },
+        "nonReportable": {
+          "long": 1.6,
+          "short": 0.8
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 5,
+          "short": 2,
+          "spreads": 3
+        },
+        "commercial": {
+          "long": 12,
+          "short": 11
+        },
+        "total": {
+          "long": 19,
+          "short": 14
+        }
+      }
+    },
+    {
+      "marketName": "NIKKEI STOCK AVERAGE - CHICAGO MERCANTILE EXCHANGE",
+      "code": "240741",
+      "asOfDate": "09/23/25",
+      "contractSize": "NIKKEI INDEX X $5.00",
+      "openInterest": 11139,
+      "commitments": {
+        "nonCommercial": {
+          "long": 2054,
+          "short": 5627,
+          "spreads": 0
+        },
+        "commercial": {
+          "long": 6277,
+          "short": 2926
+        },
+        "total": {
+          "long": 8331,
+          "short": 8553
+        },
+        "nonReportable": {
+          "long": 2808,
+          "short": 2586
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changes": {
+        "nonCommercial": {
+          "long": 0,
+          "short": 0,
+          "spreads": 0
+        },
+        "commercial": {
+          "long": 0,
+          "short": 0
+        },
+        "total": {
+          "long": 0,
+          "short": 0
+        },
+        "nonReportable": {
+          "long": 0,
+          "short": 0
+        }
+      },
+      "totalChangeFromPreviousWeek": 0,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 18.4,
+          "short": 50.5,
+          "spreads": 0
+        },
+        "commercial": {
+          "long": 56.4,
+          "short": 26.3
+        },
+        "total": {
+          "long": 74.8,
+          "short": 76.8
+        },
+        "nonReportable": {
+          "long": 25.2,
+          "short": 23.2
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 3,
+          "short": 7,
+          "spreads": 0
+        },
+        "commercial": {
+          "long": 7,
+          "short": 5
+        },
+        "total": {
+          "long": 10,
+          "short": 12
+        }
+      }
+    },
+    {
+      "marketName": "NIKKEI STOCK AVERAGE YEN DENOM - CHICAGO MERCANTILE EXCHANGE",
+      "code": "240743",
+      "asOfDate": "09/23/25",
+      "contractSize": "NIKKEI INDEX X JPY 500",
+      "openInterest": 29176,
+      "commitments": {
+        "nonCommercial": {
+          "long": 10828,
+          "short": 2519,
+          "spreads": 17
+        },
+        "commercial": {
+          "long": 11892,
+          "short": 6180
+        },
+        "total": {
+          "long": 22737,
+          "short": 8716
+        },
+        "nonReportable": {
+          "long": 6439,
+          "short": 20460
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changes": {
+        "nonCommercial": {
+          "long": 863,
+          "short": -133,
+          "spreads": 0
+        },
+        "commercial": {
+          "long": -1322,
+          "short": 903
+        },
+        "total": {
+          "long": -459,
+          "short": 770
+        },
+        "nonReportable": {
+          "long": -113,
+          "short": -1342
+        }
+      },
+      "totalChangeFromPreviousWeek": -1229,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 37.1,
+          "short": 8.6,
+          "spreads": 0.1
+        },
+        "commercial": {
+          "long": 40.8,
+          "short": 21.2
+        },
+        "total": {
+          "long": 77.9,
+          "short": 29.9
+        },
+        "nonReportable": {
+          "long": 22.1,
+          "short": 70.1
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 16,
+          "short": 4,
+          "spreads": 1
+        },
+        "commercial": {
+          "long": 18,
+          "short": 13
+        },
+        "total": {
+          "long": 34,
+          "short": 18
+        }
+      }
+    },
+    {
+      "marketName": "S&P 500 ANNUAL DIVIDEND INDEX - CHICAGO MERCANTILE EXCHANGE",
+      "code": "43874A",
+      "asOfDate": "09/23/25",
+      "contractSize": "S&P 500 ANNUAL DIVIDEND INDEX X $250",
+      "openInterest": 335782,
+      "commitments": {
+        "nonCommercial": {
+          "long": 140114,
+          "short": 28266,
+          "spreads": 17975
+        },
+        "commercial": {
+          "long": 172951,
+          "short": 288417
+        },
+        "total": {
+          "long": 331040,
+          "short": 334658
+        },
+        "nonReportable": {
+          "long": 4742,
+          "short": 1124
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changeInOpenInterest": 5659,
+      "changes": {
+        "nonCommercial": {
+          "long": -526,
+          "short": -123,
+          "spreads": 2060
+        },
+        "commercial": {
+          "long": 4031,
+          "short": 4047
+        },
+        "total": {
+          "long": 5565,
+          "short": 5984
+        },
+        "nonReportable": {
+          "long": 94,
+          "short": -325
+        }
+      },
+      "totalChangeFromPreviousWeek": -419,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 41.7,
+          "short": 8.4,
+          "spreads": 5.4
+        },
+        "commercial": {
+          "long": 51.5,
+          "short": 85.9
+        },
+        "total": {
+          "long": 98.6,
+          "short": 99.7
+        },
+        "nonReportable": {
+          "long": 1.4,
+          "short": 0.3
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 34,
+          "short": 5,
+          "spreads": 16
+        },
+        "commercial": {
+          "long": 44,
+          "short": 30
+        },
+        "total": {
+          "long": 80,
+          "short": 49
+        }
+      }
+    },
+    {
+      "marketName": "S&P 500 QUARTERLY DIVIDEND IND - CHICAGO MERCANTILE EXCHANGE",
+      "code": "43874Q",
+      "asOfDate": "09/23/25",
+      "openInterest": 27526,
+      "commitments": {
+        "nonCommercial": {
+          "long": 14609,
+          "short": 13264,
+          "spreads": 0
+        },
+        "commercial": {
+          "long": 12409,
+          "short": 14239
+        },
+        "total": {
+          "long": 27018,
+          "short": 27503
+        },
+        "nonReportable": {
+          "long": 508,
+          "short": 23
+        }
+      },
+      "changeFromDate": "09/16/25",
+      "changes": {
+        "nonCommercial": {
+          "long": -12488,
+          "short": -11144,
+          "spreads": 0
+        },
+        "commercial": {
+          "long": -11496,
+          "short": -12353
+        },
+        "total": {
+          "long": -23984,
+          "short": -23497
+        },
+        "nonReportable": {
+          "long": 508,
+          "short": 21
+        }
+      },
+      "totalChangeFromPreviousWeek": -487,
+      "percentOfOpenInterest": {
+        "nonCommercial": {
+          "long": 53.1,
+          "short": 48.2,
+          "spreads": 0
+        },
+        "commercial": {
+          "long": 45.1,
+          "short": 51.7
+        },
+        "total": {
+          "long": 98.2,
+          "short": 99.9
+        },
+        "nonReportable": {
+          "long": 1.8,
+          "short": 0.1
+        }
+      },
+      "numberOfTraders": {
+        "nonCommercial": {
+          "long": 2,
+          "short": 2,
+          "spreads": 0
+        },
+        "commercial": {
+          "long": 13,
+          "short": 13
+        },
+        "total": {
+          "long": 15,
+          "short": 15
+        }
+      }
+    }
+  ]
+}
