@@ -53,10 +53,8 @@ export default function COTParser() {
     const [output, setOutput] = useState<COTReport | null>(null);
     const [error, setError] = useState('');
 
-    // 🔧 Clean helper to convert numbers safely
     const num = (x?: string) => parseFloat((x || '0').replace(/,/g, '')) || 0;
 
-    // ✅ Robust section parser
     const parseSection = (lines: string[], startIdx: number): { section: COTSection; nextIndex: number } => {
         const section: COTSection = {};
         let i = startIdx;
@@ -108,22 +106,29 @@ export default function COTParser() {
             i++;
         }
 
-        // --- CHANGES FROM PREVIOUS WEEK ---
+        // --- CHANGES FROM PREVIOUS WEEK (fixed negative numbers) ---
         while (i < lines.length && !lines[i].includes('CHANGES FROM') && !lines[i].includes('CHANGE IN OPEN INTEREST')) i++;
         if (i < lines.length && lines[i].includes('CHANGES FROM')) {
             const dateMatch = lines[i].match(/CHANGES FROM\s+(\d{2}\/\d{2}\/\d{2})/);
             if (dateMatch) section.changeFromDate = dateMatch[1];
-            const oiChangeMatch = lines[i].match(/CHANGE IN OPEN INTEREST:\s*([\d,]+)/);
+
+            const oiChangeMatch = lines[i].match(/CHANGE IN OPEN INTEREST:\s*([-+]?\d{1,3}(?:,\d{3})*)/);
             if (oiChangeMatch) section.changeInOpenInterest = num(oiChangeMatch[1]);
+
             i++;
 
-            const parts = lines[i]?.trim().split(/\s+/) || [];
-            if (parts.length >= 8) {
+            // ✅ Preserve signed numbers using regex
+            const numbers =
+                lines[i]
+                    ?.match(/[-+]?\d{1,3}(?:,\d{3})*/g)
+                    ?.map((x) => parseInt(x.replace(/,/g, ''), 10)) || [];
+
+            if (numbers.length >= 8) {
                 section.changes = {
-                    nonCommercial: { long: num(parts[0]), short: num(parts[1]), spreads: num(parts[2]) },
-                    commercial: { long: num(parts[3]), short: num(parts[4]) },
-                    total: { long: num(parts[5]), short: num(parts[6]) },
-                    nonReportable: { long: num(parts[7]), short: num(parts[8]) },
+                    nonCommercial: { long: numbers[0] || 0, short: numbers[1] || 0, spreads: numbers[2] || 0 },
+                    commercial: { long: numbers[3] || 0, short: numbers[4] || 0 },
+                    total: { long: numbers[5] || 0, short: numbers[6] || 0 },
+                    nonReportable: { long: numbers[7] || 0, short: numbers[8] || 0 },
                 };
                 section.totalChangeFromPreviousWeek = (section.changes.total.long ?? 0) - (section.changes.total.short ?? 0);
             }
@@ -164,7 +169,6 @@ export default function COTParser() {
         return { section, nextIndex: i };
     };
 
-    // ✅ Parse entire COT file into sections
     const parseCOTReport = (text: string): COTReport => {
         const lines = text.split('\n');
         const result: COTReport = { reportType: 'Disaggregated COT', sections: [] };
@@ -182,7 +186,6 @@ export default function COTParser() {
         return result;
     };
 
-    // --- Handlers ---
     const handleParse = () => {
         setError('');
         setOutput(null);
@@ -204,22 +207,16 @@ export default function COTParser() {
         if (!output) return;
 
         try {
-            // 🔹 Save to server-side data folder
             const response = await fetch('/api/save-cot-data', {
                 method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json',
-                },
+                headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify(output),
             });
 
-            if (!response.ok) {
-                throw new Error('Failed to save data to server');
-            }
+            if (!response.ok) throw new Error('Failed to save data to server');
 
             const result = await response.json();
 
-            // 🔹 Trigger local file download
             const blob = new Blob([JSON.stringify(output, null, 2)], { type: 'application/json' });
             const url = URL.createObjectURL(blob);
             const a = document.createElement('a');
@@ -234,7 +231,6 @@ export default function COTParser() {
         }
     };
 
-    // --- UI ---
     return (
         <div className="min-h-screen bg-linear-to-br from-blue-50 to-indigo-100 p-6">
             <div className="max-w-7xl mx-auto">
@@ -247,7 +243,6 @@ export default function COTParser() {
                 </div>
 
                 <div className="grid md:grid-cols-2 gap-6">
-                    {/* Input */}
                     <div className="bg-white rounded-lg shadow-lg p-6">
                         <h2 className="text-xl font-semibold mb-4 text-gray-700">Input (COT Report Text)</h2>
                         <textarea
@@ -264,7 +259,6 @@ export default function COTParser() {
                         </button>
                     </div>
 
-                    {/* Output */}
                     <div className="bg-white rounded-lg shadow-lg p-6">
                         <div className="flex items-center justify-between mb-4">
                             <h2 className="text-xl font-semibold text-gray-700">Output (JSON)</h2>
@@ -288,9 +282,7 @@ export default function COTParser() {
 
                         <div className="w-full h-96 p-4 border border-gray-300 rounded-lg overflow-auto bg-gray-50">
                             {output ? (
-                                <pre className="font-mono text-sm text-gray-800">
-                                    {JSON.stringify(output, null, 2)}
-                                </pre>
+                                <pre className="font-mono text-sm text-gray-800">{JSON.stringify(output, null, 2)}</pre>
                             ) : (
                                 <p className="text-gray-400 text-center mt-20">
                                     Parsed JSON will appear here...

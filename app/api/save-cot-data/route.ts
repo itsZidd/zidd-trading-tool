@@ -1,36 +1,26 @@
-import { NextRequest, NextResponse } from "next/server";
-import { writeFile, mkdir } from "fs/promises";
+import { NextResponse } from "next/server";
+import fs from "fs";
 import path from "path";
 
-export async function POST(request: NextRequest) {
+export async function POST(req: Request) {
   try {
-    const data = await request.json();
+    const body = await req.json();
+    const dataDir = path.join(process.cwd(), "app", "data");
 
-    // Create data directory if it doesn't exist
-    const dataDir = path.join(process.cwd(), "data");
-    await mkdir(dataDir, { recursive: true });
+    // ensure directory exists
+    if (!fs.existsSync(dataDir)) {
+      fs.mkdirSync(dataDir, { recursive: true });
+    }
 
-    // Generate filename with timestamp
-    const timestamp = new Date().toISOString().replace(/[:.]/g, "-");
-    const filename = `cot-report-${timestamp}.json`;
-    const filepath = path.join(dataDir, filename);
-
-    // Write file
-    await writeFile(filepath, JSON.stringify(data, null, 2), "utf-8");
+    const filePath = path.join(dataDir, "cot-report.json");
+    fs.writeFileSync(filePath, JSON.stringify(body, null, 2));
 
     return NextResponse.json({
-      success: true,
-      filename,
-      message: "Data saved successfully",
+      message: "Saved successfully",
+      filename: "cot-report.json",
     });
   } catch (error) {
     console.error("Error saving COT data:", error);
-    return NextResponse.json(
-      {
-        success: false,
-        error: error instanceof Error ? error.message : "Failed to save data",
-      },
-      { status: 500 }
-    );
+    return NextResponse.json({ error: "Failed to save data" }, { status: 500 });
   }
 }
